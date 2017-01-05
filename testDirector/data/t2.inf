@@ -1,0 +1,11 @@
+[t2]
+FileName1=t2.htm
+URL1=http://crash.browser.360.cn/interface/dumpinfo/
+Total=1
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

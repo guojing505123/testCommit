@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\feng\Desktop\test
+-ID:\Programs\loadrunner\include
+-ec:\users\feng\desktop\test\\logfile.log
+c:\users\feng\desktop\test\\combined_test.c
+c:\users\feng\desktop\test\\pre_cci.c

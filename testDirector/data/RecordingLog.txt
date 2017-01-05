@@ -1,0 +1,49 @@
+[Network Analyzer (1ff4:2360)] Address lookup for www.csdn.com = 101.201.172.229
+[Network Analyzer (1ff4:2050)] Address lookup for www.csdn.net = 101.201.172.229
+[Network Analyzer (1fc8:164c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1fc8:164c)] Load Network Traffic Analyzers:
+[Network Analyzer (1fc8:164c)]     Analyzer Module: QTWeb (value=)
+[Network Analyzer (1fc8:164c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1fc8:164c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1fc8: 388)] Address lookup for Lenovo-PC = 169.254.60.114
+[Network Analyzer (1fc8: 478)] Address lookup for Lenovo-PC = 169.254.60.114
+[Network Analyzer (1fc8: 478)] Request Connection: Remote Server @ 180.97.63.236:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1fc8: 388)]   (Sid:  1) Client -> Server : 633 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  1) Server -> Client : 253 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  1) Connection Terminated (by Server)
+[WinInet Request  (1fc8:1bc4)] GET "http://pvstat.qihoo.com/dimana.gif?_pdt=360se6bq&_dim_k=pid__guid__ver&_dim_v=360se6__{c6f43ec9ee117658a5f5ec23391a27f7}__8.1.1.230&m=0&mts=0&iname=360se6&ifver=0.0.0.0&imod=bbhook.dll&imodver=0.0.0.0&icode=0xc0000005&ioff=0x000026ec&ios=6.2.9200&iie=10.0.9200.17267&mid=c6f43ec9ee117658a5f5ec23391a27f7&pt=main_process&pid=360se"
+[Network Analyzer (1fc8: 478)] Address lookup for Lenovo-PC = 169.254.60.114
+[Network Analyzer (1fc8: 478)] Request Connection: Remote Server @ 220.181.157.93:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1fc8: 388)]   (Sid:  2) Client -> Server : 1334 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  2) Server -> Client : 313 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  2) Connection Terminated (by Server)
+[WinInet Request  (1fc8:1df0)] POST "http://crash.browser.360.cn/interface/crashinfo/"
+[Network Analyzer (1fc8: 478)] Address lookup for Lenovo-PC = 169.254.60.114
+[Network Analyzer (1fc8: 478)] Request Connection: Remote Server @ 220.181.157.93:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 16384 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Client -> Server : 844 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Server -> Client : 299 bytes 
+[Network Analyzer (1fc8: 388)]   (Sid:  3) Connection Terminated (by Server)
+[WinInet Request  (1fc8:1dfc)] POST "http://crash.browser.360.cn/interface/dumpinfo/"
